@@ -28,12 +28,12 @@ export default function Home() {
       <ActionButtons>
         <Link href ='/search'>
           <ActionButton>
-          <ActionButtonImage src='https://cdn-icons.flaticon.com/png/512/1048/premium/1048339.png?token=exp=1649626203~hmac=b859aa9c103794b6f071895ae23d2b25'/>
+          <ActionButtonImage src='https://img.freepik.com/free-photo/white-premium-city-crossover-white_101266-526.jpg?w=740'/>
             Ride
           </ActionButton>
         </Link>
         <ActionButton>
-        <ActionButtonImage src='https://cdn-icons.flaticon.com/png/512/1768/premium/1768201.png?token=exp=1649626885~hmac=a96918256eb566443e638108157dcd2e'/>
+        <ActionButtonImage src='https://img.freepik.com/free-photo/large-red-offroad-pickup-truck-countryside-expeditions-3d-illustration_101266-5131.jpg?w=740'/>
           Wheels
         </ActionButton>
         <ActionButton>

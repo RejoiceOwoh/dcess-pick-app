@@ -15,7 +15,7 @@ const Search = () => {
   <Wrapper>
    <Link href = '/'>
     <ButtonContainer>
-     <BackButton src='https://cdn-icons.flaticon.com/png/512/2099/premium/2099190.png?token=exp=1649628200~hmac=177a925f9aa9d801e013bfcc5083b027'/>
+     <BackButton src='https://cdn-icons-png.flaticon.com/512/60/60577.png'/>
     </ButtonContainer>
    </Link>
    {/*Button Container */}
