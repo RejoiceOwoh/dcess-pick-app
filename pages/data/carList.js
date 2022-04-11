@@ -30,3 +30,5 @@ export const carList = [
  //  multiplier: 0.7
  // }
 ]
+
+export default carList
