@@ -56,7 +56,7 @@ const Search = () => {
     }
    }} >
     <FromLocations>
-     Let's Get Going  >>>
+     Let's Get Going
     </FromLocations>
    </Link>
    {/*Confirm Location*/}
