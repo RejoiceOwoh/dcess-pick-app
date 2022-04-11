@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/link-passhref */
 import { useState } from 'react'
 import tw from "tailwind-styled-components"
 import Link from 'next/link'
